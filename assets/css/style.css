@@ -255,7 +255,7 @@ h5 {
   justify-content: space-between;
 }
 .small__cards--card__top--stats-name {
-  font-size: var(--font-size-md);
+  font-size: var(--font-size-base);
   color: var(--clr-text-1);
   letter-spacing: 1px;
 
