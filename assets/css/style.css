@@ -275,7 +275,7 @@ h5 {
   width: 1rem;
 }
 .small__cards--card__bottom--stats-value {
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-lg);
   vertical-align: middle;
   color: var(--clr-text-2);
 }
